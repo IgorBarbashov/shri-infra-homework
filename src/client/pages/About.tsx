@@ -14,9 +14,6 @@ export const About: React.FC = () => {
               <p>
                   Author: Igor Barbashov
               </p>
-              <p>
-                  Fix for Release 106
-              </p>
           </div>
       </div>
     </div>
