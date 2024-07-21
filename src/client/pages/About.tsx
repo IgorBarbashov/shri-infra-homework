@@ -9,12 +9,15 @@ export const About: React.FC = () => {
     <div className={bem()}>
       <Helmet title="About" />
       <div className="row">
-        <div className="col">
-          <h1>About</h1>
-          <p>
-            Author: Igor Barbashov
-          </p>
-        </div>
+          <div className="col">
+              <h1>About</h1>
+              <p>
+                  Author: Igor Barbashov
+              </p>
+              <p>
+                  Fix for Release 106
+              </p>
+          </div>
       </div>
     </div>
   );
